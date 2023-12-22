@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "NvGjcJKHW36y6M2wz+u0nI3wLBUsXbDeI2Wq/BLRwHdJfvvyqzJyRi9NrwTC3ZjXGG8F4V+BDHFlpErxLJeDZA==",
+  "success": true,
+  "projectFilePath": "/Users/maheshshivampet/Documents/work/git-repos/mywebappcs_proj/src/MyWebApi/MyWebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/maheshshivampet/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.11/microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/maheshshivampet/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
